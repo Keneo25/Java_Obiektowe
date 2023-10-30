@@ -1,4 +1,4 @@
-public class zad_dod {
+public class zad_dod3 {
     public static void main(String[] args) {
         Car1  car1 = new Car1();
         Car1  car2 = new Car1();
