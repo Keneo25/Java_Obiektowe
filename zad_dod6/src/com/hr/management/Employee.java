@@ -5,7 +5,7 @@ public class Employee {
     private int workHours;
 
     public Employee(int workHours ) {
-        this.workHours = workHours;
+        
 
         if(workHours >= 0 && workHours <=60){
             this.workHours = workHours;
